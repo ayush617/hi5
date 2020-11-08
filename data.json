@@ -4,7 +4,7 @@
       "text": "Google honours legendary writer Purushottam Laxman Deshpande ...", 
       "title": "1977",
       "image":{
-            "uri":'https://raw.githubusercontent.com/AboutReact/sampleresource/master/intro_flight_ticket_booking.png',
+            "uri":"https://raw.githubusercontent.com/AboutReact/sampleresource/master/intro_flight_ticket_booking.png",
         },
      "backgroundColor": "#febe29",
     }
