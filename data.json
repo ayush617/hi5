@@ -1,9 +1,11 @@
 {
   "data": [
-    { "id": "1",
+    { 
+      "id": "1",
       "key": "s1",
       "title": "Star Wars",
       "text": "Star Wars",
-      "backgroundColor": "#4285F4" }
+      "backgroundColor": "#4285F4" 
+    }
   ]
 }
