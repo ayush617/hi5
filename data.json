@@ -1,64 +1,13 @@
 {
-  "data":[
-  {
-    key: 's1',
-    text: 'Google honours legendary writer Purushottam Laxman Deshpande ... ',
-    title: 'Pu La Deshpande',
-    image: {
-      uri:
-        'https://img.etimg.com/thumb/msid-79109129,width-650,imgsize-169444,,resizemode-4,quality-100/purushottam-laxman-deshpande-earned-a-masters-degree-and-served-as-a-college-lecturer-before-he-pursued-a-career-in-music-.jpg',
+  "data": [
+    { 
+      "key": "s1", 
+      "text": "Google honours legendary writer Purushottam Laxman Deshpande ... ", 
+      "title": "Pu La Deshpande",
+      "image": {
+          "uri":"https://img.etimg.com/thumb/msid-79109129,width-650,imgsize-169444,,resizemode-4,quality-100/purushottam-laxman-deshpande-earned-a-masters-degree-and-served-as-a-college-lecturer-before-he-pursued-a-career-in-music-.jpg"
+      },
+      "backgroundColor": "#4285F4",
     },
-    backgroundColor: '#4285F4',
-  },
-  {
-    key: 's2',
-    title: 'Flight Booking',
-    text: 'Upto 25% off on Domestic Flights',
-    image: {
-      uri:
-        'https://raw.githubusercontent.com/AboutReact/sampleresource/master/intro_flight_ticket_booking.png',
-    },
-    backgroundColor: '#febe29',
-  },
-  {
-    key: 's3',
-    title: 'Great Offers',
-    text: 'Enjoy Great offers on our all services',
-    image: {
-      uri:
-        'https://raw.githubusercontent.com/AboutReact/sampleresource/master/intro_discount.png',
-    },
-    backgroundColor: '#22bcb5',
-  },
-  {
-    key: 's4',
-    title: 'Best Deals',
-    text: ' Best Deals on all our services',
-    image: {
-      uri:
-        'https://raw.githubusercontent.com/AboutReact/sampleresource/master/intro_best_deals.png',
-    },
-    backgroundColor: '#3395ff',
-  },
-  {
-    key: 's5',
-    title: 'Bus Booking',
-    text: 'Enjoy Travelling on Bus with flat 100% off',
-    image: {
-      uri:
-        'https://raw.githubusercontent.com/AboutReact/sampleresource/master/intro_bus_ticket_booking.png',
-    },
-    backgroundColor: '#f6437b',
-  },
-  {
-    key: 's6',
-    title: 'Train Booking',
-    text: ' 10% off on first Train booking',
-    image: {
-      uri:
-        'https://raw.githubusercontent.com/AboutReact/sampleresource/master/intro_train_ticket_booking.png',
-    },
-    backgroundColor: '#febe29',
-  },
-    ]
+  ]
 }
