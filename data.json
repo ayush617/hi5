@@ -5,6 +5,7 @@
       "key": "s1",
       "title": "title",
       "text": "text",
+      "image":{},
       "backgroundColor": "#4285F4" 
     }
   ]
