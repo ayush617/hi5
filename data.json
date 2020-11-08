@@ -6,7 +6,7 @@
       "image":{
             "uri":"https://raw.githubusercontent.com/AboutReact/sampleresource/master/intro_flight_ticket_booking.png",
         },
-     "backgroundColor": "#febe29",
+     "backgroundColor": "#febe29"
     }
   ]
 }
