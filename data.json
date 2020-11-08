@@ -1,13 +1,11 @@
 {
-  "data": [
-    { 
-      "key": "s1", 
-      "text": "Google honours legendary writer Purushottam Laxman Deshpande ... ", 
-      "title": "Pu La Deshpande",
-      "image": {
-          "uri":"https://img.etimg.com/thumb/msid-79109129,width-650,imgsize-169444,,resizemode-4,quality-100/purushottam-laxman-deshpande-earned-a-masters-degree-and-served-as-a-college-lecturer-before-he-pursued-a-career-in-music-.jpg"
-      },
-      "backgroundColor": "#4285F4",
-    },
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
+    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
+    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
+    { "id": "4", "title": "Inception", "releaseYear": "2010" },
+    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
   ]
 }
