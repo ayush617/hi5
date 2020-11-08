@@ -1,5 +1,4 @@
 {
-[
   {
     key: 's1',
     text: 'Google honours legendary writer Purushottam Laxman Deshpande ... ',
@@ -60,5 +59,4 @@
     },
     backgroundColor: '#febe29',
   },
-]
 }
