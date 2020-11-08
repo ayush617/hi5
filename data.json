@@ -3,8 +3,8 @@
     { 
       "id": "1",
       "key": "s1",
-      "title": "Star Wars",
-      "text": "Star Wars",
+      "title": "title",
+      "text": "text",
       "backgroundColor": "#4285F4" 
     }
   ]
