@@ -1,18 +1,17 @@
 {
-  "about": "Ayush Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "about": "Read trending topics related to business sports bollywood and technology in India. We pick-up articles from all your favourite sources and present them to you for you.",
   "info": [
-    { "id": "2", "aa": "xxx", "bb": "yyyy", "cc": "zzz" },
     { "id": "1", "aa": "Mini", "bb": "Coders", "cc": "©" }
   ],
   "data": [
     { 
       "id": "1",
       "key": "s1",
-      "title": "qqq",
-      "text": "xxxxx",
+      "title": "Bihar Election Result",
+      "text": "Explained: Why is counting slow for the Bihar elections, and what ...",
       "image":{
         "uri":
-        "https://img.etimg.com/thumb/msid-79109129,width-650,imgsize-169444,,resizemode-4,quality-100/purushottam-laxman-deshpande-earned-a-masters-degree-and-served-as-a-college-lecturer-before-he-pursued-a-career-in-music-.jpg"
+        "https://images.indianexpress.com/2020/11/Bihar-Elections-counting.jpg"
       },
       "backgroundColor": "#4285F4" 
     },
