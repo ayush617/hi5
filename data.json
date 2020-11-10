@@ -18,22 +18,33 @@
     { 
       "id": "2",
       "key": "s2",
-      "title": "qqq",
-      "text": "xxxxx",
+      "title": "MP Election Result",
+      "text": "MP Election Result Madhya Pradesh Bypoll Results: BJP wins 16 seats, leading on 3 ...",
       "image":{
         "uri":
-        "https://img.etimg.com/thumb/msid-79109129,width-650,imgsize-169444,,resizemode-4,quality-100/purushottam-laxman-deshpande-earned-a-masters-degree-and-served-as-a-college-lecturer-before-he-pursued-a-career-in-music-.jpg"
+        "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/09/PTI30-09-2020_000213B.jpg"
       },
       "backgroundColor": "#4285F4" 
     },
     { 
       "id": "3",
       "key": "s3",
-      "title": "qqq",
-      "text": "xxxxx",
+      "title": "Dubbaka Election Results",
+      "text": "Dubbaka bypoll result 2020: BJP's M Raghunandan Rao wins by a ...",
       "image":{
         "uri":
-        "https://img.etimg.com/thumb/msid-79109129,width-650,imgsize-169444,,resizemode-4,quality-100/purushottam-laxman-deshpande-earned-a-masters-degree-and-served-as-a-college-lecturer-before-he-pursued-a-career-in-music-.jpg"
+        "https://static.toiimg.com/thumb/msid-79153346,imgsize-306857,width-400,resizemode-4/79153346.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "4",
+      "key": "s4",
+      "title": "World Science Day",
+      "text": "7 World Science Day World Science Day for Peace and Development 2020: History ...",
+      "image":{
+        "uri":
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202011/pexels-photo-1108572_0_1200x768.jpeg?KTldP91qNdYnddUPCujOKL8riOHA6_CF&size=770:433"
       },
       "backgroundColor": "#4285F4" 
     }
