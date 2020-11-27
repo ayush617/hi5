@@ -104,6 +104,17 @@
       },
       "backgroundColor": "#4285F4" 
     }
-  ]
+  ],
+  "today": [
+    { 
+      "id": "1",
+      "title": "Govardhan Puja",
+      "text": "गोवर्धन पूजा पर भूल से भी नहीं करनी ... ",
+      "image":{
+        "uri":
+        "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2020/11/14/688594-goverdhan-puja-picture.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
   
 }
