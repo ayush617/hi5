@@ -4,107 +4,6 @@
              "about2" : "We pick-up articles from all your favourite sources and present them to you for you.",
              "about3" : "Mini-Coders©"
              },
-  "home": [
-    { 
-      "id": "1",
-      "key": "s1",
-      "title": "Govardhan Puja",
-      "text": "गोवर्धन पूजा पर भूल से भी नहीं करनी ... ",
-      "image":{
-        "uri":
-        "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2020/11/14/688594-goverdhan-puja-picture.jpg"
-      },
-      "backgroundColor": "#4285F4" 
-    },
-    { 
-      "id": "2",
-      "key": "s2",
-      "title": "Bhai Dooj",
-      "text": "Bhai Dooj Aparahna Time – 01.27 pm to 03.42 pm Duration – 02 Hours 15 minutes",
-      "image":{
-        "uri":
-        "https://static.india.com/wp-content/uploads/2020/11/Bhai-Dooj.jpg"
-      },
-      "backgroundColor": "#4285F4" 
-    },
-    { 
-      "id": "3",
-      "key": "s3",
-      "title": "UEFA Nations League",
-      "text": "UEFA Nations League:  schedule for matchday 6 ... ",
-      "image":{
-        "uri":
-        "https://img.olympicchannel.com/images/image/private/t_16-9_760/f_auto/v1538355600/primary/p2h6dntbk0da8xl9haxp"
-      },
-      "backgroundColor": "#4285F4" 
-    },
-    { 
-      "id": "4",
-      "key": "s4",
-      "title": "Finance",
-      "text": "Yearn Finance formalizes operations budget as YFI rallies Cointelegraph ",
-      "image":{
-        "uri":
-        "https://images.cointelegraph.com/images/717_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvMzZlZWU3NzktYWUxYy00Mjg4LWFhMmMtZjE1Yzc3YTEwMGVhLmpwZw==.jpg"
-      },
-      "backgroundColor": "#4285F4" 
-    },
-    { 
-      "id": "5",
-      "key": "s5",
-      "title": "Sania Mirza",
-      "text": "Happy B'Day",
-      "image":{
-        "uri":
-        "https://www.suntiros.com/wp-content/uploads/2017/12/Sania-Mirza-Latest-New-Pictures-Free-Download-1-750x450.jpg"
-      },
-      "backgroundColor": "#4285F4" 
-    },
-    { 
-      "id": "6",
-      "key": "s6",
-      "title": "Urban Ladder",
-      "text": "Reliance Retail's purchase of UrbanLadder",
-      "image":{
-        "uri":
-        "https://images.indianexpress.com/2020/11/mukesh-ambani_pti-m.jpg"
-      },
-      "backgroundColor": "#4285F4" 
-    },
-    { 
-      "id": "7",
-      "key": "s7",
-      "title": "MP Election Result",
-      "text": "MP Election Result Madhya Pradesh Bypoll Results: BJP wins 16 seats, leading on 3 ...",
-      "image":{
-        "uri":
-        "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/09/PTI30-09-2020_000213B.jpg"
-      },
-      "backgroundColor": "#4285F4" 
-    },
-    { 
-      "id": "8",
-      "key": "s8",
-      "title": "Dubbaka Election Results",
-      "text": "Dubbaka bypoll result 2020: BJP's M Raghunandan Rao wins by a ...",
-      "image":{
-        "uri":
-        "https://static.toiimg.com/thumb/msid-79153346,imgsize-306857,width-400,resizemode-4/79153346.jpg"
-      },
-      "backgroundColor": "#4285F4" 
-    },
-    { 
-      "id": "9",
-      "key": "s9",
-      "title": "World Science Day",
-      "text": "7 World Science Day World Science Day for Peace and Development 2020: History ...",
-      "image":{
-        "uri":
-        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202011/pexels-photo-1108572_0_1200x768.jpeg?KTldP91qNdYnddUPCujOKL8riOHA6_CF&size=770:433"
-      },
-      "backgroundColor": "#4285F4" 
-    }
-  ],
   "today": [
     { 
       "id": "1",
@@ -115,6 +14,97 @@
         "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2020/11/14/688594-goverdhan-puja-picture.jpg"
       },
       "backgroundColor": "#4285F4" 
-    }]
-  
+    }],
+  "home": [
+    { 
+      "id": "1",
+      "title": "Govardhan Puja",
+      "text": "गोवर्धन पूजा पर भूल से भी नहीं करनी ... ",
+      "image":{
+        "uri":
+        "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2020/11/14/688594-goverdhan-puja-picture.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "2",
+      "title": "Bhai Dooj",
+      "text": "Bhai Dooj Aparahna Time – 01.27 pm to 03.42 pm Duration – 02 Hours 15 minutes",
+      "image":{
+        "uri":
+        "https://static.india.com/wp-content/uploads/2020/11/Bhai-Dooj.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "3",
+      "title": "UEFA Nations League",
+      "text": "UEFA Nations League:  schedule for matchday 6 ... ",
+      "image":{
+        "uri":
+        "https://img.olympicchannel.com/images/image/private/t_16-9_760/f_auto/v1538355600/primary/p2h6dntbk0da8xl9haxp"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "4",
+      "title": "Finance",
+      "text": "Yearn Finance formalizes operations budget as YFI rallies Cointelegraph ",
+      "image":{
+        "uri":
+        "https://images.cointelegraph.com/images/717_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvMzZlZWU3NzktYWUxYy00Mjg4LWFhMmMtZjE1Yzc3YTEwMGVhLmpwZw==.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "5",
+      "title": "Sania Mirza",
+      "text": "Happy B'Day",
+      "image":{
+        "uri":
+        "https://www.suntiros.com/wp-content/uploads/2017/12/Sania-Mirza-Latest-New-Pictures-Free-Download-1-750x450.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "6",
+      "title": "Urban Ladder",
+      "text": "Reliance Retail's purchase of UrbanLadder",
+      "image":{
+        "uri":
+        "https://images.indianexpress.com/2020/11/mukesh-ambani_pti-m.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "7",
+      "title": "MP Election Result",
+      "text": "MP Election Result Madhya Pradesh Bypoll Results: BJP wins 16 seats, leading on 3 ...",
+      "image":{
+        "uri":
+        "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/09/PTI30-09-2020_000213B.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "8",
+      "title": "Dubbaka Election Results",
+      "text": "Dubbaka bypoll result 2020: BJP's M Raghunandan Rao wins by a ...",
+      "image":{
+        "uri":
+        "https://static.toiimg.com/thumb/msid-79153346,imgsize-306857,width-400,resizemode-4/79153346.jpg"
+      },
+      "backgroundColor": "#4285F4" 
+    },
+    { 
+      "id": "9",
+      "title": "World Science Day",
+      "text": "7 World Science Day World Science Day for Peace and Development 2020: History ...",
+      "image":{
+        "uri":
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202011/pexels-photo-1108572_0_1200x768.jpeg?KTldP91qNdYnddUPCujOKL8riOHA6_CF&size=770:433"
+      },
+      "backgroundColor": "#4285F4" 
+    }
+  ]  
 }
