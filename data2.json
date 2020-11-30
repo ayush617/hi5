@@ -5,11 +5,22 @@
              "about3" : "Mini-Coders©"
              },
   "today": [
-    { 
-      "id": "1",
-      "title": "Govardhan Puja",
-      "url": "https://www.google.com/"
-    }],
+        {
+            "id": "1",
+            "title": "Guru Nanak Jayanti",
+            "url": "https://g.co/kgs/cCV4wb"
+        },
+        {
+            "id": "2",
+            "title": "Computer Security Day ",
+            "url": "https://www.daysoftheyear.com/days/computer-security-day/"
+        },
+        {
+            "id": "3",
+            "title": "Cyber Monday",
+            "url": "https://g.co/kgs/ZWpWUg"
+        }
+  ],
   "home": [
     { 
       "id": "1",
