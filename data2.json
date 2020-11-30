@@ -22,104 +22,185 @@
         }
   ],
   "home": [
-    { 
-      "id": "1",
-      "title": "Govardhan Puja",
-      "text": "गोवर्धन पूजा पर भूल से भी नहीं करनी ... ",
-      "image":{
-        "uri":
-        "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2020/11/14/688594-goverdhan-puja-picture.jpg"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd"
-    },
-    { 
-      "id": "2",
-      "title": "Bhai Dooj",
-      "text": "Bhai Dooj Aparahna Time – 01.27 pm to 03.42 pm Duration – 02 Hours 15 minutes",
-      "image":{
-        "uri":
-        "https://static.india.com/wp-content/uploads/2020/11/Bhai-Dooj.jpg"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd" 
-    },
-    { 
-      "id": "3",
-      "title": "UEFA Nations League",
-      "text": "UEFA Nations League:  schedule for matchday 6 ... ",
-      "image":{
-        "uri":
-        "https://img.olympicchannel.com/images/image/private/t_16-9_760/f_auto/v1538355600/primary/p2h6dntbk0da8xl9haxp"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd" 
-    },
-    { 
-      "id": "4",
-      "title": "Finance",
-      "text": "Yearn Finance formalizes operations budget as YFI rallies Cointelegraph ",
-      "image":{
-        "uri":
-        "https://images.cointelegraph.com/images/717_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvMzZlZWU3NzktYWUxYy00Mjg4LWFhMmMtZjE1Yzc3YTEwMGVhLmpwZw==.jpg"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd" 
-    },
-    { 
-      "id": "5",
-      "title": "Sania Mirza",
-      "text": "Happy B'Day",
-      "image":{
-        "uri":
-        "https://www.suntiros.com/wp-content/uploads/2017/12/Sania-Mirza-Latest-New-Pictures-Free-Download-1-750x450.jpg"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd" 
-    },
-    { 
-      "id": "6",
-      "title": "Urban Ladder",
-      "text": "Reliance Retail's purchase of UrbanLadder",
-      "image":{
-        "uri":
-        "https://images.indianexpress.com/2020/11/mukesh-ambani_pti-m.jpg"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd" 
-    },
-    { 
-      "id": "7",
-      "title": "MP Election Result",
-      "text": "MP Election Result Madhya Pradesh Bypoll Results: BJP wins 16 seats, leading on 3 ...",
-      "image":{
-        "uri":
-        "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/09/PTI30-09-2020_000213B.jpg"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd" 
-    },
-    { 
-      "id": "8",
-      "title": "Dubbaka Election Results",
-      "text": "Dubbaka bypoll result 2020: BJP's M Raghunandan Rao wins by a ...",
-      "image":{
-        "uri":
-        "https://static.toiimg.com/thumb/msid-79153346,imgsize-306857,width-400,resizemode-4/79153346.jpg"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd" 
-    },
-    { 
-      "id": "9",
-      "title": "World Science Day",
-      "text": "7 World Science Day World Science Day for Peace and Development 2020: History ...",
-      "image":{
-        "uri":
-        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202011/pexels-photo-1108572_0_1200x768.jpeg?KTldP91qNdYnddUPCujOKL8riOHA6_CF&size=770:433"
-      },
-      "backgroundColor": "#4285F4",
-      "source": "source adsadasd asd" 
-    }
+   {
+            "id": "1",
+            "title": "The Kapil Sharma Show Archana Puran Singh Krushna Abhishek Anupam Kher Satish Kaushik Chandan Prabhakar Pankaj Tripathi",
+            "text": "\u0915\u092a\u093f\u0932 \u0936\u0930\u094d\u092e\u093e \u0936\u094b: \u0938\u0924\u0940\u0936 \u0915\u094c\u0936\u093f\u0915 \u0915\u0940 34th \u0915\u094d\u0930\u0936 \u0925\u0940\u0902 \u0905\u0930\u094d\u091a\u0928\u093e, \u091a\u0902\u0926\u0942 \u0915\u0940 \u091a\u0941\u0928\u094c\u0924\u0940 \u0938\u0947 \u0915\u0943\u0937\u094d\u0923\u093e \u0915\u0940 \u092c\u094b\u0932\u0924\u0940 \u092c\u0902\u0926",
+            "image": {
+                "uri": "//t0.gstatic.com/images?q=tbn:ANd9GcQip9FPRAJLgF6p_AtvmgOSblZ76TJMC1rvUpt5LEOpCWfBXnalsXxW9MnNr27UFFoDagkUII7OwTU"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "News18 \u0907\u0902\u0921\u093f\u092f\u093e 41 minutes ago"
+        },
+        {
+            "id": "2",
+            "title": "Chief minister Kerala Pradesh Congress Committee Kerala Mullappally Ramachandran Pinarayi Vijayan",
+            "text": "KPCC president lashes out at Kerala CM over bar bribery case",
+            "image": {
+                "uri": "//t1.gstatic.com/images?q=tbn:ANd9GcRzZKIcUU7FvBfKqdZ1dmSJW6Er5ovf91QF0NU5bW3dRR4DKptwY72A-qCO0U1laoUPhjAe7f66iHw"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "Times of India 5 hours ago"
+        },
+        {
+            "id": "3",
+            "title": "Neha Kakkar Tony Kakkar Jasmin Bhasin Bigg Boss - Weekend Ka Vaar Rohanpreet Singh Pavitra Punia",
+            "text": "Bigg Boss 14 Weekend Ka Vaar HIGHLIGHTS: Neha Kakkar graces the show, Pavitra Punia gets eliminated",
+            "image": {
+                "uri": "//t2.gstatic.com/images?q=tbn:ANd9GcRIHtuxFIWMMofzxjPiIRcM1J5bcZR098S6NN5mZOsZXfePuFW4I4ErCFf86tsSs0-dSgxZ8i69Bb8"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "India TV 49 minutes ago"
+        },
+        {
+            "id": "4",
+            "title": "Sudeep Akkineni Nagarjuna Bigg Boss Kiccha",
+            "text": "Bigg Boss 4 Telugu: \u0c05\u0c2d\u0c3f\u0c1c\u0c40\u0c24\u0c4d\u200c\u0c15\u0c41 \u0c0a\u0c39\u0c3f\u0c02\u0c1a\u0c28\u0c3f \u0c37\u0c3e\u0c15\u0c4d \u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c28 \u0c38\u0c41\u0c26\u0c40\u0c2a\u0c4d.. \u0c06\u0c2f\u0c28 \u0c05\u0c02\u0c26\u0c41\u0c15\u0c47 ...",
+            "image": {
+                "uri": "//t3.gstatic.com/images?q=tbn:ANd9GcQpLo35bH5Zi2O-eaHzqdymFwPPFIGSSoGTFVDZW2ISTDgNQDJb-5ZwVaNN9QWa-mp-2AFeNuFmq-E"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "News18 \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 5 hours ago"
+        },
+        {
+            "id": "5",
+            "title": "Kavita Kaushik Bigg Boss Rubina Dilaik Pavitra Punia Abhinav Shukla",
+            "text": "Bigg Boss 14: \u0915\u094d\u092f\u093e \u091f\u0940\u0935\u0940 \u0915\u0940 '\u091a\u0902\u0926\u094d\u0930\u092e\u0941\u0916\u0940 \u091a\u094c\u091f\u093e\u0932\u093e' \u0915\u0935\u093f\u0924\u093e \u0915\u094c\u0936\u093f\u0915 \u092c\u0921\u093c\u0947 \u0916\u0947\u0932 \u0915\u0947 \u0932\u093f\u090f \u0924\u0948\u092f\u093e\u0930 \u0939\u0948\u0902? \u0938\u0940\u0928 \u092a\u0932\u091f \u0917\u092f\u093e?",
+            "image": {
+                "uri": "//t0.gstatic.com/images?q=tbn:ANd9GcTjfMpMoKuRr05QK-v6Zf7GhHc2D_7iSC9rB_GrlLfSWLlQvblZL4HSwldEAUveQQaC2b7YwVmIHrY"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "India.com \u0939\u093f\u0902\u0926\u0940 15 hours ago"
+        },
+        {
+            "id": "6",
+            "title": "Manchester United F.C. Jonny Evans Leicester City F.C. Manchester West Bromwich Albion F.C. Old Trafford Premier League Ole Gunnar Solskj\u00e6r",
+            "text": "Solskjaer and Phelan keen for Manchester United to seal surprise free transfer",
+            "image": {
+                "uri": "//t1.gstatic.com/images?q=tbn:ANd9GcR1DGcYUE9Km3z_kl5pyqc2jX4PULnSqyFxI7pr0iuJUa04ubsI5gEUuaJzCdUWo94S8Am2fXPB56A"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "CaughtOffside 8 hours ago"
+        },
+        {
+            "id": "7",
+            "title": "Chennaiyin FC Indian Super League Kerala Blasters FC Jamshedpur FC Albino Gomes",
+            "text": "ISL | Gomes emerges Blasters' hero",
+            "image": {
+                "uri": "//t3.gstatic.com/images?q=tbn:ANd9GcRZzMEzwR4Cc6xl8jPl7nclGhhx8TZ9YD7YwP1arqTWYtlMTCm5SWvU3W2bqZAZj-SMDJypgtT62bE"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "The Hindu 1 hour ago"
+        },
+        {
+            "id": "8",
+            "title": "Frank Lampard Eden Hazard Chelsea F.C. Premier League",
+            "text": "Frank Lampard Dismisses Comparisons Between Eden Hazard & Hakim Ziyech",
+            "image": {
+                "uri": "//t1.gstatic.com/images?q=tbn:ANd9GcRpkxv9D9aUUJUMv0Men-wDJmgp5f5s3gtd9NX7duQXkFbYzyTwYKmdGLY26uaLs3XkjXTYAs1eUYU"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "90min 7 hours ago"
+        },
+        {
+            "id": "9",
+            "title": "Lionel Messi Cristiano Ronaldo FC Barcelona Kevin-Prince Boateng Christian Pulisic Manchester United F.C. Chelsea F.C. Juventus F.C.",
+            "text": "'CR7 was the best until I met Messi'",
+            "image": {
+                "uri": "//t0.gstatic.com/images?q=tbn:ANd9GcQbFHwudntQpjtKVG5Dtbxw01NAopH_eV2Emr-pAFYts_nlDPhDs1ZwL_BcAmM-Ys1E4asL0KUm_z4"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "KickOff.com 6 hours ago"
+        },
+        {
+            "id": "10",
+            "title": "Bigg Boss Rubina Dilaik Salman Khan Jasmin Bhasin Pavitra Punia Abhinav Shukla",
+            "text": "Bigg boss 14 weekend ka vaar 29 nov 2020 Day 56 Written episode : \u092c\u093f\u0917 \u092c\u0949\u0938 \u0915\u0947 \u0918\u0930 \u0938\u0947 \u092c\u093e\u0939\u0930 \u0939\u0941\u0908 \u092a\u0935\u093f\u0924\u094d\u0930\u093e \u092a\u0941\u0928\u093f\u092f\u093e",
+            "image": {
+                "uri": "//t0.gstatic.com/images?q=tbn:ANd9GcTYO6THljsUsS3w6unWDAAWh9NK2kN4Lnv744Ms0Z36wTB_oncwPTgr8ZBJdJA1m5UGlnkO7S6gAoY"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "\u0928\u0935\u092d\u093e\u0930\u0924 \u091f\u093e\u0907\u092e\u094d\u0938 25 minutes ago"
+        },
+        {
+            "id": "11",
+            "title": "Guru Nanak Guru Nanak Gurpurab Sikhism Gurdwara",
+            "text": "Happy Guru Nanak Jayanti 2020: \u0917\u0941\u0930\u0941 \u092a\u0930\u094d\u0935 \u092a\u0930 \u0907\u0928 Messages \u0914\u0930 Quotes \u0938\u0947 \u0926\u0947\u0902 \u0917\u0941\u0930\u0941 \u0928\u093e\u0928\u0915 \u091c\u092f\u0902\u0924\u0940 \u0915\u0940 \u092c\u0927\u093e\u0908",
+            "image": {
+                "uri": "//t3.gstatic.com/images?q=tbn:ANd9GcRML9b9DO1KFC-WM_ICBIgh0qFZZKOMMQp98h0Rd33Wow4-lsEu_8ejUMz_IgHnQ0TKw5bvL0dqJAg"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "NDTV Khabar 1 hour ago"
+        },
+        {
+            "id": "12",
+            "title": "Manchester United F.C. Paul Pogba Scott McTominay Manchester Ole Gunnar Solskj\u00e6r",
+            "text": "'Pogba is misunderstood, he's a ridiculous talent' \u2013 McTominay defends Man Utd team-mate",
+            "image": {
+                "uri": "//t2.gstatic.com/images?q=tbn:ANd9GcR94Cmp72_klBXNLPKlo41i2mlUREg37Vu0yQAfP2eRP775uo-Ehda49zaEaKbj7odYhGa4Rz981fg"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "Goal.com 22 hours ago"
+        },
+        {
+            "id": "13",
+            "title": "FC Barcelona Lionel Messi Diego Maradona CA Osasuna La Liga Ronald Koeman UEFA Champions League Argentina national football team",
+            "text": "Barcelona 4-0 Osasuna: Antoine Griezmann Shines As Lionel Messi Pays Tribute To Maradona",
+            "image": {
+                "uri": "//t0.gstatic.com/images?q=tbn:ANd9GcQP3UR5XnnkJacyXJ2iX1RoPLKFT1DblUAzuXkodpP96pRy5ZMOagwTzN5GGujSIDQHkPSH90NlQ5U"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "Outlook India 1 hour ago"
+        },
+        {
+            "id": "14",
+            "title": "Kerala Blasters FC Indian Super League Chennaiyin FC Kerala Jamshedpur",
+            "text": "\u0906\u0908\u090f\u0938\u090f\u0932-7 : \u0915\u0947\u0930\u0932\u093e \u092c\u094d\u0932\u093e\u0938\u094d\u091f\u0930\u094d\u0938 \u0915\u094b \u092a\u0939\u0932\u0940 \u091c\u0940\u0924 \u0915\u0940 \u0926\u0930\u0915\u093e\u0930\u2026",
+            "image": {
+                "uri": "//t3.gstatic.com/images?q=tbn:ANd9GcRya_GrG2uW6Mj9gGqfiXPCHZjyEZuTn2Jtvgs1H7THPphuP2P6uKyuG00i_mh-QrlC2cznML9EFHk"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "Tarunmitra 8 hours ago"
+        },
+        {
+            "id": "15",
+            "title": "A.C. Milan ACF Fiorentina Serie A Zlatan Ibrahimovi\u0107 Stefano Pioli Franck Kessi\u00e9",
+            "text": "Milan 2-0 Fiorentina: No Zlatan, no problem for Serie A leaders",
+            "image": {
+                "uri": "//t3.gstatic.com/images?q=tbn:ANd9GcSS3DOeL2MbkTcFrULq9pjW5GgzZc-pp0Iu_A7ImJRVWL50q7KhF3tGqOmiC_C7noxHxctyI-hj7gE"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "Goal.com 5 minutes ago"
+        },
+        {
+            "id": "16",
+            "title": "South Africa national cricket team England cricket team Cricket Jonny Bairstow Twenty20 International",
+            "text": "Captaincy is getting tough for Quinton de Kock",
+            "image": {
+                "uri": "//t2.gstatic.com/images?q=tbn:ANd9GcSgnm6NJ5VB8P410JdHLSiGYt5cYtSc4KLzZhIrqXpLik5ke_as1Uf9Wi1E8Uw_T5hMoIQ9TNt_3DU"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "ESPNcricinfo.com 58 minutes ago"
+        },
+        {
+            "id": "17",
+            "title": "Krushna Abhishek Govinda The Kapil Sharma Show Chandan Prabhakar Kashmira Shah Anupam Kher",
+            "text": "\u091a\u0902\u0926\u0928 \u0928\u0947 \u0917\u094b\u0935\u093f\u0902\u0926\u093e \u0915\u094b \u0932\u0947\u0915\u0930 \u0915\u0943\u0937\u094d\u0923\u093e \u092a\u0930 \u092e\u093e\u0930\u093e \u0924\u093e\u0928\u093e, \u0936\u094b \u0915\u0947 \u092a\u094d\u0930\u094b\u092e\u094b \u092e\u0947\u0902 \u0926\u0947\u0916\u0947\u0902 \u092b\u093f\u0930 \u0915\u094d\u092f\u093e \u0939\u0941\u0906",
+            "image": {
+                "uri": "//t2.gstatic.com/images?q=tbn:ANd9GcTyR70Ej77HkfKdDjHdklIx3ep0UjFCR27DEohcA_L9wuWXeOJzyVkFWOsMFxfTJFPB_ARQ0Cww65U"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "Business Sandesh 4 hours ago"
+        },
+        {
+            "id": "18",
+            "title": "Babar Azam Pakistan national cricket team Cricket Captain (cricket)",
+            "text": "Babar Azam accused of physical, sexual abuse by woman",
+            "image": {
+                "uri": "//t0.gstatic.com/images?q=tbn:ANd9GcQuZx_65FrJMJ-ARiTzRoTxGLMAZU2D0NXftI2JyNpXR9B1C5wwnW0GFOZ8RF7Whbms8CXCzL1s_as"
+            },
+            "backgroundColor": "#4285F4",
+            "source": "The Indian Express 8 hours ago"
+        }
   ]  
 }
